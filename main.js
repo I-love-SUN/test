@@ -26,7 +26,4 @@ new Vue({
   render: h => h(App)
 }).$mount('#app')
 
-// // 创建应用实例对象
-// const app = createApp(App);
-// // 挂载
-// app.mount('#app')
+hhhhhhhhh
